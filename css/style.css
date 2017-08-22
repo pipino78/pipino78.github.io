@@ -3407,5 +3407,9 @@ button.single_add_to_cart_button {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  color: white
+  color: white;
+}
+
+#contact {
+  padding: 20px 0;
 }

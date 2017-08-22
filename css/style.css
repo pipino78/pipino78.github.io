@@ -3400,3 +3400,12 @@ button.single_add_to_cart_button {
 .alessio-logo {
   width: 200px;
 }
+
+.jumbotron { 
+  background: url(../img/waterfall.jpg) no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white
+}

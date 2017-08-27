@@ -3411,6 +3411,24 @@ button.single_add_to_cart_button {
   color: white;
 }
 
+.italian { 
+  background: url(../img/abruzzo-gran-sasso.jpg) no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+}
+
+.spanish { 
+  background: url(../img/Spain.jpg) no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+}
+
 #contact {
   padding: 20px 0;
 }

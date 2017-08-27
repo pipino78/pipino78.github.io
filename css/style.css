@@ -3420,6 +3420,15 @@ button.single_add_to_cart_button {
   color: #055640;
 }
 
+.italian2 { 
+  
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+}
+
 .spanish { 
   background: url(../img/Spain.jpg) no-repeat center center; 
   -webkit-background-size: cover;

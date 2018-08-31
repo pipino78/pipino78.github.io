@@ -3438,6 +3438,15 @@ button.single_add_to_cart_button {
   color: white;
 }
 
+.group { 
+  background: url(../img/watergroup.jpg) no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+}
+
 #contact {
   padding: 20px 0;
 }
